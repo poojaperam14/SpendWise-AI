@@ -101,3 +101,18 @@ GitHub: [@poojaperam14](https://github.com/poojaperam14)
 ---
 
 ⭐ If you find this project useful, consider giving it a star!
+
+## Testing
+
+Testing helps verify that the application works correctly.
+
+The main features to check include:
+
+- Adding a new transaction.
+- Editing an existing transaction.
+- Deleting a transaction.
+- Viewing income and expenses.
+- Checking monthly budget calculations.
+- Viewing expense reports and charts.
+
+Future improvements will include automated tests for important backend features.
